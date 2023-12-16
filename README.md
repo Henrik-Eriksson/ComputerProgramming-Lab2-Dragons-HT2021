@@ -1,1 +1,3 @@
 # ComputerProgramming-Lab2-Dragons-HT2021
+
+Assignment 3, titled "Here Be Dragons!", for the Computer Programming course (TPTG11), Autumn 2021, involves implementing a dragon database using structs, dynamic memory management, and file-handling in C programming. The database initially has a set capacity but can dynamically expand. Functions include adding, updating, deleting, and displaying dragons (briefly or in detail), showing specific dragon details, listing database statistics, sorting the database, and quitting. The dragons have attributes like name, flying ability, fierceness, and colors. The assignment emphasizes good programming practices like modular structure, naming conventions, and thorough documentation.
